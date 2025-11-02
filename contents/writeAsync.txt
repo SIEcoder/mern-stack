@@ -1,0 +1,4 @@
+First file content: Hello this is the content of the first text file
+, Second file content: Hello this is the content of the second text file
+First file content: Hello this is the content of the first text file
+, Second file content: Hello this is the content of the second text file
